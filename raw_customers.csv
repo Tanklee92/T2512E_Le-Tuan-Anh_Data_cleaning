@@ -1,0 +1,9 @@
+﻿Customer_ID,Name,Age,Gender,Join_Date,Total_Spend
+C001,  Nguyen Van A ,25.0,Nam,2023-01-15,1000000
+C002,Tran Thi B,30.0,Nu,2023/02/20,2500000
+C003,Le Van C,,male,15-03-2023, 1500000 
+C004,Pham Thi D,-5.0,Female,2023-04-01,3000000
+C005,Hoang Van E,45.0,Nam,,invalid_amount
+C001,  Nguyen Van A ,25.0,Nam,2023-01-15,1000000
+C006,Vu Thi F,150.0,Nữ,2023-06-10,500000
+C007,Doan Van G,28.0,Nam,2023-07-05,
